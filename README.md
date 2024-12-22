@@ -49,3 +49,7 @@ https://youtu.be/YUdXL5ok_gQ?si=qHEog-XlXyQk65PN
 <img width="1512" alt="like" src="https://github.com/user-attachments/assets/c3626c95-e566-4a89-9a58-e025128e9dcd" />
 <img width="1426" alt="comment" src="https://github.com/user-attachments/assets/7f723881-5748-4a0e-907f-a8a2a705f767" />
 <img width="1511" alt="view comments" src="https://github.com/user-attachments/assets/af5d9d42-5149-4511-808a-a3354ae8830a" />
+
+### Send/Accept follow requests
+<img width="1511" alt="send follow requests" src="https://github.com/user-attachments/assets/556f641b-9bda-4f4b-9bfe-0ea0cd62123a" />
+<img width="1510" alt="accept requests" src="https://github.com/user-attachments/assets/47de85ef-4edc-4966-b3c2-873d92aced3a" />
