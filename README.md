@@ -39,6 +39,8 @@ https://youtu.be/YUdXL5ok_gQ?si=qHEog-XlXyQk65PN
 ### Make public, friends-only, image posts
 <img width="1512" alt="make public post" src="https://github.com/user-attachments/assets/2e89d0b5-0455-4b1d-868c-11e200b5ff08" />
 <img width="1510" alt="post with image" src="https://github.com/user-attachments/assets/6a3b5824-25f9-4d69-a735-492a008b6827" />
+<img width="1511" alt="make friends only cmk post" src="https://github.com/user-attachments/assets/35d9a32c-7ccf-45ce-b68a-25c30ef00ee4" />
+<img width="1512" alt="friends post 2" src="https://github.com/user-attachments/assets/07ab9440-de76-4946-af06-15731a356a9c" />
 
 ### Like & Comment posts
 <img width="1512" alt="like" src="https://github.com/user-attachments/assets/c3626c95-e566-4a89-9a58-e025128e9dcd" />
