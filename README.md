@@ -42,6 +42,9 @@ https://youtu.be/YUdXL5ok_gQ?si=qHEog-XlXyQk65PN
 <img width="1511" alt="make friends only cmk post" src="https://github.com/user-attachments/assets/35d9a32c-7ccf-45ce-b68a-25c30ef00ee4" />
 <img width="1512" alt="friends post 2" src="https://github.com/user-attachments/assets/07ab9440-de76-4946-af06-15731a356a9c" />
 
+### Share posts
+<img width="1508" alt="share" src="https://github.com/user-attachments/assets/011c0537-aea6-402b-87ee-8dab02a3eb91" />
+
 ### Like & Comment posts
 <img width="1512" alt="like" src="https://github.com/user-attachments/assets/c3626c95-e566-4a89-9a58-e025128e9dcd" />
 <img width="1426" alt="comment" src="https://github.com/user-attachments/assets/7f723881-5748-4a0e-907f-a8a2a705f767" />
