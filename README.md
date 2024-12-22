@@ -8,10 +8,9 @@ https://midnightblue-404-d2b955deb49d.herokuapp.com/
 https://youtu.be/YUdXL5ok_gQ?si=qHEog-XlXyQk65PN
 
 # Tech-stack:
-Frontend: React.js
-Backend:
-Database:
-Deployment:
+- Frontend: React.js
+- Backend: Django
+- Deployment: Heroku
 
 # Implemented features:
 1. Sign up for users and app manager.
