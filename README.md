@@ -37,4 +37,5 @@ https://youtu.be/YUdXL5ok_gQ?si=qHEog-XlXyQk65PN
 <img width="1512" alt="login" src="https://github.com/user-attachments/assets/0132252d-225c-4c16-93c7-55f2107528ef" />
 
 ### Make public, friends-only, image posts
-
+<img width="1512" alt="make public post" src="https://github.com/user-attachments/assets/2e89d0b5-0455-4b1d-868c-11e200b5ff08" />
+<img width="1510" alt="post with image" src="https://github.com/user-attachments/assets/6a3b5824-25f9-4d69-a735-492a008b6827" />
