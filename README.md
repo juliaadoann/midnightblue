@@ -42,4 +42,4 @@ https://youtu.be/YUdXL5ok_gQ?si=qHEog-XlXyQk65PN
 
 ### Like & Comment posts
 <img width="1512" alt="like" src="https://github.com/user-attachments/assets/c3626c95-e566-4a89-9a58-e025128e9dcd" />
-<img width="1511" alt="comment" src="https://github.com/user-attachments/assets/88ed3f0b-b229-49d9-9920-38e6fe712883" />
+
